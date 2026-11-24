@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: HunterAmmoAlert
+## Notes: Warns hunters when ammunition drops below a configurable amount.
+## Author: ChatGPT
+## Version: 1.2.0
+
+HunterAmmoAlert.lua
